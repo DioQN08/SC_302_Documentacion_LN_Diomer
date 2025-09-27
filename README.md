@@ -1,1 +1,2 @@
-# SC_302_Documentacion_LN_Diomer
+# SC\_302\_Documentacion\_LN\_Diomer Esta es mi primera práctica con GitHub.
+
